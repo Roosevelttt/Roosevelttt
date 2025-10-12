@@ -16,11 +16,8 @@ I'm a passionate developer from Surabaya, Indonesia, focused on building dynamic
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
----
-
 <a href="https://github.com/Roosevelttt"><img src="https://github-readme-stats-rho-black-12.vercel.app/api/top-langs/?username=Roosevelttt&layout=compact&theme=github_dark&langs_count=6&hide_title=true" width="430"/></a>
 
----
 
 ### 🤝 Let's Connect!
 
